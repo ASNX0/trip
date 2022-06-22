@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "988287927759",
+    "project_id": "hardy-moon-330018",
+    "storage_bucket": "hardy-moon-330018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988287927759:android:ef1e2d722b6f54f530feba",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988287927759-6des8nnv78k4j06i01n95qm4f1orsp5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbqTeQBGokZIyBn-L66QYLfRlixQlXvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988287927759-6des8nnv78k4j06i01n95qm4f1orsp5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988287927759:android:c6cf7f642085430d30feba",
+        "android_client_info": {
+          "package_name": "com.secit.scannerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988287927759-6des8nnv78k4j06i01n95qm4f1orsp5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbqTeQBGokZIyBn-L66QYLfRlixQlXvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988287927759-6des8nnv78k4j06i01n95qm4f1orsp5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
